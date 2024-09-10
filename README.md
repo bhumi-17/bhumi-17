@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://github.com/bhumi-17/bhumi-17/blob/main/Bhumi_Git_gifi.gif?raw=true">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumi-17&label=Profile%20views&color=0e75b6&style=flat" alt="bhumi-17" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/bhumi-17](https://github.com/bhumi-17)
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/bhumi-17)
 
 - 📫 How to reach me **bhumikaverma88877@gmail.com**
 
