@@ -1,3 +1,5 @@
+![logo](https://github.com/bhumi-17/bhumi-17/blob/main/Bhumi.png?raw=true)
+
 <h1 align="center">Hi 👋, I'm Bhumika Verma</h1>
 <h3 align="center">Crafting code with passion, one commit at a time.</h3>
 
